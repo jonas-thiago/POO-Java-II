@@ -1,6 +1,6 @@
 # POO-Java-II
 
-# Aplicações Prática
+## Aplicações Prática
 
 * Jogos e processamento de imagens: usam Arrays Estáticos para armazenar mapas e mundo em jogos e para representar os pixels de uma imagem
 

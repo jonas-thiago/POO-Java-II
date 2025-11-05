@@ -1,0 +1,13 @@
+package video;
+
+public class ListaEncadeadaTeste {
+
+    public static void main(String[] args) {
+        ListaEncadeada<Integer> lista = new ListaEncadeada<>();
+        lista.adicionar(1);
+
+        System.out.println(lista);
+        
+    }
+    
+}
